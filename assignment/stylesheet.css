@@ -1,8 +1,16 @@
-CSS
-
-head {
-    background-color:darkmagenta;
-    color:bisque;
-    text-align:center;
-    width:100%;
-};
+.formatTheTop {
+    text-align: center;
+    width: 100%;
+    color: bisque;
+    background-color: mediumpurple;
+}
+body{
+    margin: 0;
+    background-image: url(record.png);
+    background-repeat: repeat;
+    background-size: 20%;
+}
+.actualContent {
+    background-color: lightgrey;
+    padding: 1em;
+}
